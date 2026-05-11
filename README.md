@@ -17,7 +17,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/https://github.com/Pradeep2715?logo=github&style=for-the-badge&color=00D9FF&labelColor=0D1117)](https://github.com/https://github.com/Pradeep2715)
 [![Repos](https://badges.pufler.dev/repos/https://github.com/Pradeep2715?style=for-the-badge&color=00D9FF&labelColor=0D1117)](https://github.com/https://github.com/Pradeep2715?tab=repositories)
 [![Years](https://badges.pufler.dev/years/https://github.com/Pradeep2715?style=for-the-badge&color=00D9FF&labelColor=0D1117)](https://github.com/https://github.com/Pradeep2715)
-[![Commits](https://badges.pufler.dev/commits/monthly/https://github.com/Pradeep2715?style=for-the-badge&color=00D9FF&labelColor=0D1117)](https://github.com/https://github.com/Pradeep2715)
+[![Commits](https://badges.pufler.dev/commits/monthly/https://github.com/Pradeep2715?style=for-the-badge&color=00D9FF&labelColor=0D1117)](https://github.com/Pradeep2715)
 
 </div>
 
